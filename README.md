@@ -23,10 +23,10 @@ To build and evaluate a classification model by:
 - Comparison of models and selection of the best-performing one.
 
 ## Repository Structure
-- /notebooks
+- notebooks
 - titanic_classification.ipynb
-- /models
-- /data
+- models
+- data
 - README.md
 
 ## Next Steps
